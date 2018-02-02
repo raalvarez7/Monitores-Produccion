@@ -1,0 +1,8 @@
+lin135pro
+monitor 1	cromo-118	mlinea1
+monitor 2	cromo-119	mlinea2
+monitor 3	cromo-
+monitor 4	cromo-120	mlinea4
+monitor 5	cromo-121	mlinea5
+
+
